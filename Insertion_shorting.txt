@@ -26,4 +26,4 @@ BÝG-O=N^2=3^2=9 olarak bulunur
 3.Linear Search için=Her 3 case'in Time Complexty=O(n)-> Buna baðlý olarak  Average case: 3 Worst case: 6 Best case:1 dir.
   Binary Search için tree için=Average case için O(logn):log3** Worst case için O(N):6'dýr
 
-4.**Average case:18 ile yapýlan iþlem ne sonda nede baþtadýr.
+4.**Average case:18 ile yapýlan iþlem ne sonda nede baþtadýr. 
